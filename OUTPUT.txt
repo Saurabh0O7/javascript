@@ -1,0 +1,3 @@
+Users in List1 but not in List2: ["Arjun", "Swapnil", "Vishal"]
+Users in List2 but not in List1: ["Laxman", "Nitin", "Gaurav"]
+Common users in both lists: ["Adwait", "Amit", "Adnan"]
